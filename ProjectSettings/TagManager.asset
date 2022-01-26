@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player1
+  - Player2
+  - Player3
+  - Player4
+  - AirAttack
+  - AirAttack2
+  - GroundAttack(1)
+  - GroundAttack(2)
+  - GroundAttack(3)
+  - GroundAttack_Front
+  - GroundAttack2
+  - GroundAttack2_Break
+  - GroundAttack2_Front
+  - Top
+  - Down
+  - CPU1
+  - CPU2
+  - CPU3
+  - CPU4
+  - CPU5
+  - CPU6
+  - CPU7
+  - CPU8
+  - CPU9
+  - CPU10
+  - CPU11
+  - CPU12
+  - Stage1
+  - ITEM_HitRange
+  - Item_CanPick
+  - Item_CantPick
+  - AB_Sword
+  - GroundAttack_Defense
+  - GroundAttack2_Defense
+  - Item_0
+  - Item_1
+  - Item_2
+  - Item_3
+  - Item_4
+  - Item_5
+  - Item_6
+  - Item_7
+  - Item_N8
+  - Item_N9
+  - Item_N10
+  - Item_N11
+  - FxTemporaire
+  - Item6_Attack
+  - Item7_Attack
+  - CPU13
+  - CPU14
+  - CPU15
+  - CPU16
+  - Item_12_BB
+  - DeadSpace_gold
+  - DeadSpace
+  - slopleft
+  - slopright
+  - AB_Pouch
+  - AB_Magic
+  - AB_Gun
+  - AB_Assassin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Cube
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
